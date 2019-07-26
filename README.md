@@ -1,2 +1,2 @@
 # ImageHosting
-ImageHosting for my markdown files
+ImageHosting of my markdown files
